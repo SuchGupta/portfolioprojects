@@ -9,16 +9,14 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 * ✉️  You can contact me at [suchitra.singh2@gmail.com](mailto:suchitra.singh2@gmail.com) and/or [https://www.linkedin.com/in/suchitraagupta]
 * 🧠  I'm learning Full Stack Web Development & Cloud Computing
 * 🤝  I'm open to collaborating on projects involving AI/ML techniques, system design, front-end & back-end web development & any cloud services implementations.
-Listed below are few Python notebooks that to showcase ML modeling applications to solve a business case:
-  [Clustering](Python Notebooks/HELP International_Clustering Assignment.ipynb)
+<b> Sample Python Notebooks</b>
+<p>[Clustering](Python Notebooks/HELP International_Clustering Assignment.ipynb)</p>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
-
 
 ### Socials
 

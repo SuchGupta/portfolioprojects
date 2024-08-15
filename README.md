@@ -1,8 +1,3 @@
-# portfolioprojects
-
-The repository showcases some of the sample projects that I have worked upon.
-These sample projects comprise of one or more applications/tools like Python, Power BI, AI/ML models etc. 
-
 Hi 👋 My name is Suchitra Gupta
 ===============================
 
@@ -11,7 +6,7 @@ Business Analyst & Data Analyst
 
 I have 10+ years of experience in business & data analysis with a focus on AI/ML applications, project management, & systems integration. I have worked on large to mid-scale projects for IT consulting, big pharma, & energy sectors. I try to make optimum use of SaFe/Agile, ITIL, Jira, & Confluence for project management, & leverage my SQL, Power BI, Python, & Alteryx skills for data automation, visualizations, & process optimizations.
 
-* ✉️  You can contact me at [suchitra.singh2@gmail.com](mailto:suchitra.singh2@gmail.com)
+* ✉️  You can contact me at [suchitra.singh2@gmail.com](mailto:suchitra.singh2@gmail.com) and/or [https://www.linkedin.com/in/suchitraagupta].(https://www.linkedin.com/in/suchitraagupta)
 * 🧠  I'm learning Full Stack Web Development & Cloud Computing
 * 🤝  I'm open to collaborating on projects involving AI/ML techniques, system design, front-end & back-end web development & any cloud services implementations.
 

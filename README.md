@@ -32,8 +32,8 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 <br>
 <b> BI Visualizations</b>
 <br>
-<p align='left">
-  <a href="BI Visualizations/Sales Analysis-Online Grocery App.pdf">PowerBI visualization of sales performance of an online grocery app"</a>
+<p align="left">
+  <a href="BI Visualizations/Sales Analysis-Online Grocery App.pdf">Power BI visualization:Sales Performance_Online Grocery App</a>
 </p>
 <br>
 

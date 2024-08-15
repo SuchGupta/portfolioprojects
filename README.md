@@ -27,7 +27,7 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 <b> System Design</b>
 <br>
 <p align="left">
-  <a href=SystemDesign/HLD-System Design-Music App-Music App-Unit Level System Arhitecture.drawio.png">High-level system design for a music app</a>
+  <a href="SystemDesign/HLD-System Design-Music App-Music App-Unit Level System Arhitecture.drawio.png">High-level system design for a music app</a>
 </p>
 
 ### Skills

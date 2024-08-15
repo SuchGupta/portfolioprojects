@@ -29,6 +29,11 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 <p align="left">
   <a href="SystemDesign/HLD-System Design-Music App-Music App-Unit Level System Arhitecture.drawio.png">High-level system design for a music app</a>
 </p>
+<br>
+<b> BI Visualizations</b>
+<br>
+<p align='left">
+  <a href="BI Visualizations/Sales Analysis-Online Grocery App.pdf">PowerBI visualization of sales performance of an online grocery app</a>
 
 ### Skills
 

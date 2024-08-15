@@ -17,7 +17,11 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
   <br>
   <a href="Python Notebooks/HELP International_Clustering Model Inferences.pdf">Clustering Model:Hierarchical & k-Means-Presentation</a>
   <br>
-  <a href="Python Notebooks/Lead Score case Study_X Education.ipynb">Logistic Regression</a>  
+  <a href="Python Notebooks/Lead Score case Study_X Education.ipynb">Logistic Regression</a>
+  <br>
+  <a href="Python Notebooks/BoomBikes Case Study_Multiple RegressionUsing VIF.ipynb">Multiple Regression using VIF</a>
+  <br>
+  <a href="Python Notebooks/BoomBikesCaseStudy_Multiple Regression_UsingRFE.ipynb">Multiple Regression using RFE</a>
 </p>
 
 ### Skills

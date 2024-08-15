@@ -1,4 +1,4 @@
-Hi 👋 My name is Suchitra Gupta
+Hi 👋 my name is Suchitra Gupta
 ===============================
 
 Business Analyst & Data Analyst

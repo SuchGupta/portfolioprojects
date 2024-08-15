@@ -10,7 +10,6 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 * 🧠  I'm learning Full Stack Web Development & Cloud Computing
 * 🤝  I'm open to collaborating on projects involving AI/ML techniques, system design, front-end & back-end web development & any cloud services implementations.
 <b> Sample Python Notebooks</b>
-<p>[Clustering](Python Notebooks/HELP International_Clustering Assignment.ipynb)</p>
 
 ### Skills
 

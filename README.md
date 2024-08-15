@@ -15,7 +15,7 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 <p align="left">
   <a href="Python Notebooks/HELP International_Clustering Assignment.ipynb">Clustering Model:Hierarchical & k-Means</a>
   <br>
-  <a href="Python Notebooks/HELP International_Clustering Model Inferences.pdf">Clustering Model:Hierarchical & k-Means-Presentaion<a></a>
+  <a href="Python Notebooks/HELP International_Clustering Model Inferences.pdf">Clustering Model:Hierarchical & k-Means-Presentation<a></a>
 </p>
 
 ### Skills

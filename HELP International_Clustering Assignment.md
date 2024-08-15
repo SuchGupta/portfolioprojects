@@ -1,6 +1,4 @@
-<title>Business Case:</title>title
-<br>
-HELP International has raised around $10 Mn as part of its funding programmes. It wants to make a strategic and effective decision to select those countries that are in the direst need of aid and where this money can be used most effectively.
+Business Case:HELP International has raised around $10 Mn as part of its funding programmes. It wants to make a strategic and effective decision to select those countries that are in the direst need of aid and where this money can be used most effectively.
 
 Business Approach: HELP International has provided a data that comprises of socio-economic factors for a list of 167 countries that are expected to be in need of aid. Based on the Clustering model approach and with the support of analytical inferences, business shall zero-down on the final list of countries.
 

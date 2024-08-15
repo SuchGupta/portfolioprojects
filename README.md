@@ -10,12 +10,16 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 * 🧠  I'm learning Full Stack Web Development & Cloud Computing
 * 🤝  I'm open to collaborating on projects involving AI/ML techniques, system design, front-end & back-end web development & any cloud services implementations.
 <br>
-<b> Sample Python Notebooks</b>
+## Sample Python Notebooks</b>
 <br>
 <p align="left">
   <a href="Python Notebooks/HELP International_Clustering Assignment.ipynb">Clustering Model:Hierarchical & k-Means</a>
   <br>
-  <a href="Python Notebooks/HELP International_Clustering Model Inferences.pdf">Clustering Model:Hierarchical & k-Means-Presentation<a></a>
+  <a href="Python Notebooks/HELP International_Clustering Model Inferences.pdf">Clustering Model:Hierarchical & k-Means-Presentation</a>
+  <br>
+  <a href="Python Notebooks/BoomBikes Case Study_Multiple RegressionUsing VIF.ipynb">Multiple Regression using VIF</a>
+  <br>
+  <a href="Python Notebooks/BoomBikesCaseStudy_Multiple Regression_UsingRFE.ipynb">Multiple Regression using RFE</a>
 </p>
 
 ### Skills

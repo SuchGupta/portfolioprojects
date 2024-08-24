@@ -28,6 +28,7 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 <br>
 <p align="left">
   <a href="SystemDesign/HLD-System Design-Music App-Music App-Unit Level System Arhitecture.drawio.png">High-level system design for a music app</a>
+  <br>
   <a href= "https://github.com/SuchGupta/portfolioprojects/blob/main/SystemDesign/Final%20MS%20Thesis_Presentation_Machine%20Translation_Transformers.pdf">Final MS Thesis_Presentation_Machine Translation_Transformers</a>
 </p>
 <br>

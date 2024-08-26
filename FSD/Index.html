@@ -1,1 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Learning HTML & CSS</title>
+    <style>
+        body{
+            background-color: beige;
+            font-family: 'Courier New';
+            margin: 2px
+            padding= 0px;
+        }
+    </style>
+</head>
+<style>
+    .intro{
+        border: 3px dotted gray;
+        margin: 3px;
+        font-family: Georgia;
+        padding: 2px ;
+    }
+    .states{
+        border: 3px dashed blue;
+        margin: 3px;
+        font-family: Arial;
+        margin: 20px;
+    }
+    .activities{
+        border: 3px groove green;
+        margin: 3px;
+        font-family: 'Trebuchet MS';
+        text-align: justify;
+        margin: 10px;
+        padding: 10px;
+    }
+    .siteseeing{
+        border: 3px inset navajowhite;
+        margin: 3px;
+        font-family:cursive;
+        text-align: initial;
+        margin: 10px;
+    }
+    #HP{
+        border: 3px ridge rgb(255, 174, 0);
+        margin: 3px;
+        font-family: -apple-system;
+        margin: 20px;
+    }
+    .uklink{
+        background-color: #223094;
+        color: white;
+        font: normal italic 20px 'cambria';
+    }
+    .hplink{
+        background-color: #940428;
+        color: white;
+        font: normal italic 20px 'times new roman';
+    }    
 
+</style>
+
+<body>
+    <div id="Introduction" class="intro">
+        <h1>Welcome to India!</h1>
+        <h1>Places to watch & things to do!</h1>
+    </div>
+    
+    <div id="UK" class="states">
+        <h2>Uttarakhand  <a target="_blank" class="uklink" href="https://uttarakhandtourism.gov.in/"> Uttarakhand Tourism</a><image src="Kedarnath.jpg" alt="Kedarnath" height="100"></image></h2>
+        <h3>Things to do<span class="web-share"></span></h3>
+        <div class="activities">
+            <p>
+                Experience the thrill of white-water rafting in Rishikesh,
+                where the Ganges River offers some of the best rapids in India.
+                From gentle Grade I rapids for beginners to challenging Grade IV rapids for seasoned adventurers,
+                there's something for everyone.
+                Rishikesh is also known for its adrenaline-pumping bungee jumping experiences, offering one of the highest jumps in India at over 83 meters.
+                Plunge from a towering platform and feel the rush as you free-fall towards the river below. 
+            </p>
+        <table>
+            <thead>
+            <th colspan="2"><b>Uttarakhand Fun Catalog</b></th>
+            </thead>
+            <tbody>
+            <tr>
+                <td>River rafting</td>
+                <td>Rishikesh</td>
+            </tr>
+            <tr>
+                <td>Naini Jheel</td>
+                <td>Nainital</td>
+            </tr>
+            </tbody>     
+        </table>          
+        </div>
+        
+        <h3>Places to watch<span class="fa fauna"></span></h3>
+        <div class="siteseeing">
+            <p>
+                Uttarakhand, a state in northern India crossed by the Himalayas, is known for its Hindu pilgrimage sites.
+                Rishikesh, a major centre for yoga study, was made famous by the Beatles’ 1968 visit.
+                The city hosts the evening Ganga Aarti, a spiritual gathering on the sacred Ganges River.
+                The state's forested Jim Corbett National Park shelters Bengal tigers and other native wildlife. Some of the important cities of Uttarakhand are:
+            </p>
+            <ul>
+                <li>Rishikesh</li>
+                <li>Nainital</li>
+                <li>Mussoorie</li>
+                <li>Haridwar</li>
+            </ul>    
+        </div>
+    <iframe height="300" width="1830" src="https://uttarakhandtourism.net/">Visit Uttarakhand</iframe>      
+    </div>
+
+    <div id="HP" class="states">
+        <h2>Himachal Pradesh  <a target="_blank" class="hplink" href="https://himachaltourism.gov.in/">Himachal Tourism</a><image src="HP.jpg" alt="HP Tourism" height="100"></image></h2>
+        <h3>Things to do</h3>
+        <div class="activities">
+            <p>
+                Rohtang Pass is quite famous among Ladakh travelers but the unpredictable avalanche and severe climatic conditions 
+                make it scary some times. Nonetheless, it had made adventure seekers’ tour of Ladakh mind-blowing.
+                A high mountain pass at an elevation of 3978 meters above the sea level, Rohtang is just 51 km from Manali.
+                It is a part of the proud Pir Panjal Range of the mighty Himalayas and it is one of the Kullu famous places.
+            </p>
+        <table>
+            <thead>
+                <th colspan="2"><b>Popular Activities in HP</b></th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Ice skating</td>
+                    <td>Shimla</td>
+                </tr>
+                <tr>
+                    <td>Mountaineering</td>
+                    <td>Dharamshala</td>
+                </tr>
+            </tbody>
+        </table>        
+        </div>
+        
+        <h3>Places to watch</h3>
+        <div class="siteseeing">
+            <p>
+                Himachal Pradesh is a state in the northern part of India.
+                Situated in the Western Himalayas, it is one of the thirteen mountain states and is 
+                characterised by an extreme landscape featuring several peaks and extensive river systems.
+                The shadowy valleys, rugged crags, glaciers and gigantic pines and roaring rivers and exquisite 
+                flora and fauna compose the symphony that is for ever Himachal.Some of the important cities of Himachal Pradesh are:
+            </p>
+            <ul>
+                <li>Shimla</li>
+                <li>Manali</li>
+                <li>Dharamshala</li>
+                <li>Dalhousie</li>
+            </ul> 
+        </div>
+        <iframe height="300" width="1830" src="https://hptdc.in/">Visit Uttarakhand</iframe>      
+    </div>
+
+    <div id="Plan a trip" class="forms">
+        <form acion="/action.php">
+            <h2>Please enter details to plan your trip</h2>
+            <input type="text" placeholder="Create username">
+            <br>
+            <br>
+            <input type="password" placeholder="Enter password">
+            <br>
+            <br>
+            <label for="solo">
+            <input type="radio" value="Solo traveller" name="trip" id="solo"><b>Solo traveller</b>
+            </label>
+            <label for="group">
+            <input type="radio" value="Group traveller" name="trip" id="group"><b>Group traveller</b>
+            </label>
+            <h2>Please select trip amenities to be planned for.*<i><normal>Multiple options can also be selected*</i></normal></h2>
+            <label for="hotel">
+                <input type="checkbox" value="Hotel" name="amenities" id="hotel">Hotel
+            </label>
+            <label for="rental">
+                <input type="checkbox" value="Rental Vehicle" name="amenities" id="rental">Rentals
+            </label>
+            <label for="tg">
+                <input type="checkbox" value="Tour Guide" name="amenities" id="tg">Tour Guide
+            </label>
+            <label for="all">
+                <input type="checkbox" value="All" name="all" id="all">All
+            </label>
+            <label for="none">
+                <input type="checkbox" value="None" name="none" id="none">None
+            </label>
+            <br>
+            <br>
+        <textarea name="feedback"  id="fd" placeholder="Please share your feedback">For feedback</textarea>
+        <br>
+        <br>
+        <input type="submit" value="Submit">    
+        </form>
+    </div>
+                  
+<footer>
+    <h5>Contact me at hello@abc.com</h5>
+</footer>                    
+</body>
+</html>

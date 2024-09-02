@@ -22,6 +22,8 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
   <a href="Python Notebooks/BoomBikes Case Study_Multiple RegressionUsing VIF.ipynb">Multiple Regression using VIF</a>
   <br>
   <a href="Python Notebooks/BoomBikesCaseStudy_Multiple Regression_UsingRFE.ipynb">Multiple Regression using RFE</a>
+  <br>
+  <a href="Python Notebooks/NBRx & TRx-Sales Performance Analysis.ipynb">TRx & NBRx Market Share Analysis using PCA & Apriori Algorithm</a>
 </p>
 <br>
 <b> System Design</b>

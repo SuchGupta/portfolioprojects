@@ -8,7 +8,7 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 
 * ✉️  You can contact me at [suchitra.singh2@gmail.com](mailto:suchitra.singh2@gmail.com) and/or [https://www.linkedin.com/in/suchitraagupta]
 * 🧠  I'm learning Full Stack Web Development & Cloud Computing
-* 🤝  I'm open to collaborating on projects involving AI/ML techniques, system design, front-end & back-end web development & any cloud services implementations.
+* 🤝  I'm open to collaborating on projects involving product development supported with AI/ML techniques, system design, front-end & back-end web development & any cloud services implementations.
 <br>
 <b> Sample Python Notebooks</b>
 <br>

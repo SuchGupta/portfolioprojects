@@ -44,6 +44,11 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
   <a href="BI Visualizations/Sales Performance Dashboard.pdf">Power BI visualization: Sales Performance of a CPG organization</a>
 </p>
 <br>
+
+<b> Tableau Visualizations</b>
+<br>
+<a href="https://public.tableau.com/app/profile/suchitra.gupta3687/vizzes">Link to my Tableau Public profile</a>
+<br>
 </p>
 
 ### Skills

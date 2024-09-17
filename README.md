@@ -48,8 +48,10 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 <b> Tableau Visualizations</b>
 <br>
 <a href="https://public.tableau.com/app/profile/suchitra.gupta3687/vizzes">Link to my Tableau Public profile</a>
+<br>
 <a href="https://github.com/SuchGupta/portfolioprojects/blob/main/BI%20Visualizations/Tableau%20Dashboard-eCommerceAnalysis.pdf">Tableau visualization:eCommerce Sales Performance</a>
 <br>
+<a href="BI Visualizations/Hospital Admissions Synopsis.pdf">Tableau visualization:History of earthquakes</a>
 </p>
 
 ### Skills

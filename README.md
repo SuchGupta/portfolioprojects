@@ -34,7 +34,7 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
   <a href= "https://github.com/SuchGupta/portfolioprojects/blob/main/SystemDesign/Final%20MS%20Thesis_Presentation_Machine%20Translation_Transformers.pdf">Final MS Thesis_Presentation_Machine Translation_Transformers</a>
 </p>
 <br>
-<b> BI Visualizations</b>
+<b> Power BI Visualizations</b>
 <br>
 <p align="left">
   <a href="BI Visualizations/Sales Analysis-Online Grocery App.pdf">Power BI visualization:Sales Performance_Online Grocery App</a>
@@ -44,6 +44,12 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
   <a href="BI Visualizations/Sales Performance Dashboard.pdf">Power BI visualization: Sales Performance of a CPG organization</a>
 </p>
 <br>
+<b> Tableau Visualizations</b>
+<br>
+<p align="left">
+  <a href="[BI Visualizations/Sales Analysis-Online Grocery App.pdf](https://public.tableau.com/views/Analysis-eCommerceSalesCustomerAcquisition/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">Tableau visualization:Sales Analysis & Customer Acquisition-eCommerce Platform</a>
+<br>
+</p>
 
 ### Skills
 

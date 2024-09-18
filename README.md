@@ -64,7 +64,7 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="Java" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="HTML" alt="Tableau" width="40" height="40"/> 
-<img src="C:\Users\suchi\Downloads\pbi.png" title="HTML" alt="Power BI" width="40" height="40"/>
+<img src="C:\Users\suchi\Downloads\Power_BI.svg" title="HTML" alt="Power BI" width="40" height="40"/>
 </p>
 
 ### Socials

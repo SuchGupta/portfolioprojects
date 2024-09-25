@@ -44,6 +44,8 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
   <a href="BI Visualizations/Sales Performance Dashboard.pdf">Power BI visualization: Sales Performance of a CPG organization</a>
 <br>  
   <a href="BI Visualizations/How effective is eCommerce sales platform.pdf">Power BI visualization: Sales Effectiveness of eCommerce Paltforms</a>
+  <br>
+  <a href="BI Visualizations/Plant Site Performance-Use of Dynamic Chart Titles.pdf">Power BI visualization: Performance of plant manufacturing sites</a>
 </p>
 <br>
 

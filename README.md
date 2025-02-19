@@ -36,6 +36,8 @@ I have 10+ years of experience in business & data analysis with a focus on AI/ML
   <a href="https://github.com/SuchGupta/portfolioprojects/blob/main/SystemDesign/Azure%20Queue%20Function%20Triggers%20for%20asynchronous%20jobs.PNG">Azure queue functions to process asynchronous jobs</a>
   <br>
   <a href="https://github.com/SuchGupta/portfolioprojects/blob/main/SystemDesign/AWS%20Fanout%20Trigger%20Notifications.PNG">AWS fanout notifications using SQS & SNS to fulfill batch processing jobs</a>
+  <br>
+  <a href="https://github.com/SuchGupta/portfolioprojects/blob/main/SystemDesign/Architecture%20design%20for%20Denial%20of%20Service%20(DoS)%20attack%20prevention.docx">AWS design to protect an EC2 instance from DDoS attacks</a>
   </p>
 <br>
 <b> Power BI Visualizations</b>
